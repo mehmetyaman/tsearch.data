@@ -11,7 +11,7 @@ cd tsearch.data
 
 mvn clean install -U 
 
-For Postgres database you have to install a postgres database and create a schema with named textures_main_db
+Using Postgres version database, you have to install a postgres database and create a schema with named textures_main_db
 
 
 
