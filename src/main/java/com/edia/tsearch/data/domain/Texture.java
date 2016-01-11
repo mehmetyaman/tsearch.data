@@ -8,6 +8,12 @@ import javax.persistence.GenerationType;
 import javax.persistence.Id;
 import javax.persistence.Lob;
  
+/**
+ * db entity for texture 
+ * 
+ * @author mehmetyaman
+ *
+ */
 @Entity
 public class Texture implements Serializable {
  
